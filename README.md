@@ -1,5 +1,12 @@
 # stocktrader
 
+<ul>
+  <li>Manage your stocks portfolio and trades</li>
+  <li>Start a new Day by clicking on "end day"</li>
+  <li>Track your Funds</li>
+  <li>Save Data to Firebase</li>
+  <li>Load Data from Firebase</li>
+
 ## Build Setup
 
 ``` bash
