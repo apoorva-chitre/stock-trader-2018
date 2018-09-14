@@ -4,8 +4,8 @@
   <li>Manage your stocks portfolio and trades</li>
   <li>Start a new day by clicking on "end day"</li>
   <li>Track your Funds in real-time</li>
-  <li>Save Data to Firebase</li>
-  <li>Load Data from Firebase</li>
+  <li>Save Trade & Portfolio data to Firebase</li>
+  <li>Load Trade & Portfolio data from Firebase</li>
 
 ## Build Setup
 
