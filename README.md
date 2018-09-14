@@ -1,11 +1,5 @@
 # stocktrader
 
-> Manage your stocks portfolio and trades
-> Start a new Day by clicking on "end day"
-> Track your Funds
-> Save Data to Firebase 
-> Load Data from Firebase
-
 ## Build Setup
 
 ``` bash
